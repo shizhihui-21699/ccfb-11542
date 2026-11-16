@@ -16,3 +16,12 @@ node_modules/
 __pycache__/
 .venv/
 venv/
+.pytest_cache/
+*.pyc
+data/
+results/
+state/
+
+*.egg-info/
+build/
+dist/
